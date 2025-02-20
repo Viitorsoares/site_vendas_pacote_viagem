@@ -1,0 +1,29 @@
+{
+  "name": "site_pacote_viagens",
+  "version": "1.0.0",
+  "description": "Site de vendas de pacote de viagens, projeto ppi.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viitorsoares/site_vendas_pacote_viagem.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript"
+  ],
+  "author": "Vitor Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viitorsoares/site_vendas_pacote_viagem/issues"
+  },
+  "homepage": "https://github.com/Viitorsoares/site_vendas_pacote_viagem#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
